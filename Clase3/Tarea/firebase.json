@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "Clase3/Tarea",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
